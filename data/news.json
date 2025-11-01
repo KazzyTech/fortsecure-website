@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "title": "Packages Ready for Disbursement",
+      "description": "Several packages that have been securely stored with FortSecure for extended periods are now set for disbursement in accordance with company policy. Clients are advised to check their accounts and coordinate collection with our support team.",
+      "image": "asset/disburse.jpg",
+      "link": "#"
+    },
+    {
+      "title": "Insurance Partnership with TrustGuard Announced",
+      "description": "We’ve partnered with TrustGuard Insurance to offer clients improved safety coverage for stored assets.",
+      "image": "images/news2.jpg",
+      "link": "#"
+    },
+    {
+      "title": "Digital Vault System Upgrade",
+      "description": "All client digital storage vaults now feature next-gen encryption and real-time backup recovery.",
+      "image": "images/news3.jpg",
+      "link": "#"
+    }
+  ]
+}
